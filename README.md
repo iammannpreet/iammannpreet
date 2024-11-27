@@ -1,12 +1,13 @@
-Hi there 👋
-I'm Manpreet, a passionate Full Stack Developer who loves turning ideas into engaging digital experiences. Whether it's building sleek, functional websites or diving into backend systems, I thrive on solving problems and creating things that make an impact.
+# Hi there, I'm Mann 👋
+
+[![Website](https://img.shields.io/website?label=iammannpreet.com&style=for-the-badge&url=https%3A%2F%2Fiammannpreet.com)](https://iammannpreet.com)
 
 🌟 A Little About Me:
+- 🌱 I’m currently learning everything 🤣
+- 🥅 DEC 2024 Goal: Learn more about web3 and threeJS
+
 🔭 Currently Working On:
 A fun project called SecretMessageEncoder, where creativity meets code!
-
-🌱 Currently Learning:
-Exploring React Three Fiber to integrate immersive 3D experiences into my projects.
 
 👯 Looking to Collaborate On:
 Open-source projects or anything that challenges me to grow as a developer.
@@ -21,14 +22,13 @@ React, Full Stack Development, Tailwind CSS, or anything tech-related!
 iammannpreet.com | LinkedIn | vickyarora.singh@gmail.com
 
 ⚡ Fun Fact:
-When I'm not coding, you'll find me on my bike exploring the world or experimenting with new hobbies!
+When I'm not coding, you'll find me on my bike exploring the world or playing ping pong!
 
 🛠️ Tech Stack:
 Frontend: React.js, Next.js, Tailwind CSS
 Backend: Node.js, Express, MongoDB
 3D Graphics: React Three Fiber, Three.js
 Tools: Git, VS Code, GitHub Desktop
-📊 GitHub Stats:
 
 
 🚀 Let's Build Something Cool Together!
