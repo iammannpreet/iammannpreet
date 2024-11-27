@@ -24,7 +24,7 @@ I'm **Manpreet**, a passionate **Full Stack Developer** who loves turning ideas 
   [iammannpreet.com](https://iammannpreet.com) | [LinkedIn](https://linkedin.com/in/manpreet) | vickyarora.singh@gmail.com  
 
 - ⚡ **Fun Fact**:  
-  When I'm not coding, you'll find me on my bike exploring the world or experimenting with new hobbies!
+  When I'm not coding, you'll find me on my bike exploring the world or playing ping pong!
 
 ---
 
