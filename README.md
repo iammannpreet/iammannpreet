@@ -5,8 +5,10 @@ I'm **Manpreet**, a passionate **Full Stack Developer** who loves turning ideas 
 ---
 
 ### 🌟 A Little About Me:
+
 - 🔭 **Currently Working On**:  
   A fun project called [**SecretMessageEncoder**](https://github.com/iammannpreet/SecretMessageEncoder), where creativity meets code!  
+  Contributing to [**Venture Freight**](https://venture-freight.vercel.app/), focusing on creating intuitive user experiences and robust functionality.
 
 - 🌱 **Currently Learning**:  
   Exploring **React Three Fiber** to integrate immersive 3D experiences into my projects.
