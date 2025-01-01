@@ -7,7 +7,7 @@ I'm **Manpreet**, a passionate **Full Stack Developer** who loves turning ideas 
 ### 🌟 A Little About Me:
 
 - 🔭 **Currently Working On**:  
-  A fun project called [**MeetBot**](https://github.com/iammannpreet/MeetBot), where creativity meets code!  
+  A fun project called [**MeetBot**](https://github.com/iammannpreet/MeetBot), An automated bot which can join your Google Meets if you can't!  
   Contributing to [**Venture Freight**](https://venture-freight.vercel.app/), focusing on creating intuitive user experiences and robust functionality.
 
 - 🌱 **Currently Learning**:  
