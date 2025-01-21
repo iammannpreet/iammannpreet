@@ -23,7 +23,7 @@ I'm **Manpreet**, a passionate **Full Stack Developer** who loves turning ideas 
   React, Full Stack Development, Tailwind CSS, or anything tech-related!
 
 - 📫 **Reach Me At**:  
-  [iammannpreet.com](https://iammannpreet.com) | [LinkedIn](https://linkedin.com/in/manpreet) | vickyarora.singh@gmail.com  
+  [iammannpreet.com](https://iammannpreet.com) | [LinkedIn](https://linkedin.com/in/manpreet) | contact@iammannpreet.com  
 
 - ⚡ **Fun Fact**:  
   When I'm not coding, you'll find me on my bike exploring the world or playing ping pong!
