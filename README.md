@@ -8,7 +8,7 @@ I'm **Manpreet**, a passionate **Full Stack Developer** who loves turning ideas 
 
 - 🔭 **Currently Working On**:  
   Learning Ruby on Rails by building [**Couch Patata**](https://github.com/iammannpreet/CouchPatata-Backend), a backend service that powers an engaging movie discovery platform.  
-  Contributing to [**Venture Freight**]((https://venture-freight-one.vercel.app/)), focusing on creating intuitive user experiences and robust functionality.
+  Contributing to [**Venture Freight**](https://venture-freight-one.vercel.app/), focusing on creating intuitive user experiences and robust functionality.
 
 - 🌱 **Currently Learning**:  
   Exploring **React Three Fiber** to integrate immersive 3D experiences into my projects.
