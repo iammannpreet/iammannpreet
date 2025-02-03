@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-I'm **Manpreet**, a passionate **Full Stack Developer** who loves turning ideas into engaging digital experiences. Whether it's building sleek, functional websites or diving into backend systems, I thrive on solving problems and creating things that make an impact.  
+I'm **Manpreet**, a **Full Stack Developer** passionate about continuous learning. I transform traditional websites into futuristic, interactive experiences using the latest technologies. By diving deep into backend systems and crafting engaging frontends, I thrive on solving complex problems and building solutions that make a real impact.
 
 ---
 
