@@ -1,6 +1,6 @@
 ## Hi there
 
-I'm **Manpreet**, a **Full Stack Developer** passionate about building scalable systems and immersive web experiences. I transform traditional workflows into modern, maintainable, event-driven architectures. Whether it's crafting seamless UIs, architecting clean backend services, or wrangling data pipelines — I thrive on solving tough problems with precision and creativity.
+I'm **Manpreet**, a **Full Stack Developer** passionate about building scalable systems and immersive web experiences. I transform traditional workflows into modern, maintainable, event-driven architectures.
 
 ---
 
